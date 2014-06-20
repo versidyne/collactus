@@ -1,0 +1,24 @@
+C:\Users\Alex\Desktop\Github Prep\Collocatus\Collocatus\obj\Debug\Organizer.exe
+C:\Users\Alex\Desktop\Github Prep\Collocatus\Collocatus\obj\Debug\Organizer.xml
+C:\Users\Alex\Desktop\Github Prep\Collocatus\Collocatus\obj\Debug\Organizer.pdb
+C:\Users\Alex\Desktop\Github Prep\Collocatus\Collocatus\bin\Debug\Collocatus.exe.config
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\bin\Debug\Collocatus.exe.config
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\bin\Debug\Collocatus.exe
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\bin\Debug\Collocatus.pdb
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\bin\Debug\Collocatus.xml
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.Form1.resources
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.Resources.resources
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.vbproj.GenerateResource.Cache
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.exe
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.xml
+C:\Users\Alex\Programming\Projects\Github\Collactus VB\Collocatus\obj\Debug\Collocatus.pdb
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\bin\Debug\Collocatus.exe.config
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.exe
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.xml
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.pdb
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\bin\Debug\Collocatus.exe
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\bin\Debug\Collocatus.pdb
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\bin\Debug\Collocatus.xml
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.Form1.resources
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.Resources.resources
+C:\Users\Alex\Programming\Projects\Windows\Collactus\Collocatus\obj\Debug\Collocatus.vbproj.GenerateResource.Cache

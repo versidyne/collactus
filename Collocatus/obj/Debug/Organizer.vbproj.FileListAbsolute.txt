@@ -1,0 +1,41 @@
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\bin\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\bin\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.Resources.resources
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\AppData\Local\Temporary Projects\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\bin\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.Resources.resources
+C:\Users\Alejandro Gurrola\Documents\Programming\Organizer\Organizer\obj\Debug\Organizer.vbproj.GenerateResource.Cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\bin\Debug\Organizer.exe
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\bin\Debug\Organizer.pdb
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\bin\Debug\Organizer.xml
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.Resources.resources
+C:\Users\Alejandro Gurrola\Desktop\Programming\Organizer\Organizer\obj\Debug\Organizer.vbproj.GenerateResource.Cache
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\Organizer.exe
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\Organizer.xml
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\Organizer.pdb
+L:\Programming\Projects\Organizer\Organizer\bin\Debug\Organizer.exe
+L:\Programming\Projects\Organizer\Organizer\bin\Debug\Organizer.pdb
+L:\Programming\Projects\Organizer\Organizer\bin\Debug\Organizer.xml
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\ResolveAssemblyReference.cache
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\Organizer.Form1.resources
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\Organizer.Resources.resources
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\ResGen.read.1.tlog
+L:\Programming\Projects\Organizer\Organizer\obj\Debug\ResGen.write.1.tlog
